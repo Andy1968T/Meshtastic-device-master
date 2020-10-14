@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meshtastic-device
 
 This is the device side code for the [meshtastic.org](https://www.meshtastic.org) project.
@@ -205,3 +206,9 @@ This project is run by volunteers. Past contributors include:
 For a listing of currently missing features and a FAQ click [here](docs/faq.md).
 
 Copyright 2019 Geeksville Industries, LLC. GPL V3 Licensed.
+=======
+# Meshtastic-device-master
+Still learning how to fork and stage requests. 
+So not complete at the moment
+still not figured out how fork and stage the new .cpp file and .h i have written
+>>>>>>> 8a76f188f6c44b40a06489bf47b96fe4010afc02
